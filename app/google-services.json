@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "333826343780",
+    "firebase_url": "https://fennec-194323.firebaseio.com",
+    "project_id": "fennec-194323",
+    "storage_bucket": "fennec-194323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333826343780:android:ff97369aa6afb793",
+        "android_client_info": {
+          "package_name": "com.cronos.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333826343780-a59mqi3mbtviqhbabggqjimkrj6d16bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjepH2ETZUc137-yMOz4oZzm6fKIVqPbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
